@@ -20,7 +20,7 @@
             systems and passionate about software engineering, with strong
             background in PHP (LARAVEL).
             <br class="block mt-2.5" />
-            I have over +6 month years of experience at private IT companies.
+            I have over +6 month of experience at private IT companies.
             Also as a freelancer.
             <br class="block mt-2.5" />
             I'm positive, open-minded and determined. I'm always looking for
