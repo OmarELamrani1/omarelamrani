@@ -160,7 +160,7 @@
                   <p
                     class="text-gray-500 dark:text-gray-300 text-base font-semibold md:text-md"
                   >
-                    Achraf dkhayssi
+                    Achraf dakhssi
                   </p>
                   <p
                     class="text-xs font-semibold md:text-md text-green-700 dark:text-green-500"
