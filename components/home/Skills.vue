@@ -7,7 +7,7 @@
         <h1
           class="text-3xl font-medium leading-none title-font dark:text-gray-200 text-gray-900"
         >
-          Teck Stack
+          Tech Stack
         </h1>
         <span class="mt-1 mb-4 w-10 h-1 bg-green-700"></span>
       </div>
