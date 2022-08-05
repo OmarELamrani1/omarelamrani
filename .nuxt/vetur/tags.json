@@ -1,4 +1,10 @@
 {
+  "AboutExperience": {
+    "description": "Auto imported from components/about/Experience.vue"
+  },
+  "AboutIntro": {
+    "description": "Auto imported from components/about/Intro.vue"
+  },
   "HomeAbout": {
     "description": "Auto imported from components/home/About.vue"
   },
@@ -13,12 +19,6 @@
   },
   "HomeTestimonials": {
     "description": "Auto imported from components/home/Testimonials.vue"
-  },
-  "AboutExperience": {
-    "description": "Auto imported from components/about/Experience.vue"
-  },
-  "AboutIntro": {
-    "description": "Auto imported from components/about/Intro.vue"
   },
   "LayoutFooter": {
     "description": "Auto imported from components/layout/Footer.vue"
