@@ -1,10 +1,4 @@
 {
-  "AboutExperience": {
-    "description": "Auto imported from components/about/Experience.vue"
-  },
-  "AboutIntro": {
-    "description": "Auto imported from components/about/Intro.vue"
-  },
   "HomeAbout": {
     "description": "Auto imported from components/home/About.vue"
   },
@@ -28,5 +22,11 @@
   },
   "LayoutThemeSwitcher": {
     "description": "Auto imported from components/layout/ThemeSwitcher.vue"
+  },
+  "AboutExperience": {
+    "description": "Auto imported from components/about/Experience.vue"
+  },
+  "AboutIntro": {
+    "description": "Auto imported from components/about/Intro.vue"
   }
 }

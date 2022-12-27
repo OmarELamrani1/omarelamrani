@@ -6,8 +6,6 @@ You can directly use them in pages and other components without the need to impo
 
 **Tip:** If a component is conditionally rendered with `v-if` and is big, it is better to use `Lazy` or `lazy-` prefix to lazy load.
 
-- `<AboutExperience>` | `<about-experience>` (components/about/Experience.vue)
-- `<AboutIntro>` | `<about-intro>` (components/about/Intro.vue)
 - `<HomeAbout>` | `<home-about>` (components/home/About.vue)
 - `<HomeHero>` | `<home-hero>` (components/home/Hero.vue)
 - `<HomeOss>` | `<home-oss>` (components/home/Oss.vue)
@@ -16,3 +14,5 @@ You can directly use them in pages and other components without the need to impo
 - `<LayoutFooter>` | `<layout-footer>` (components/layout/Footer.vue)
 - `<LayoutNavigation>` | `<layout-navigation>` (components/layout/Navigation.vue)
 - `<LayoutThemeSwitcher>` | `<layout-theme-switcher>` (components/layout/ThemeSwitcher.vue)
+- `<AboutExperience>` | `<about-experience>` (components/about/Experience.vue)
+- `<AboutIntro>` | `<about-intro>` (components/about/Intro.vue)

@@ -171,7 +171,7 @@
               <h2
                 class="font-bold text-gray-900 dark:text-gray-300 mb-1 tracking-wider text-lg"
               >
-                Web developer
+                WEB Developer
               </h2>
               <p
                 class="text-sm leading-relaxed text-gray-700 dark:text-gray-400"
@@ -182,7 +182,7 @@
                 >
                   Edgy Brain
                 </a>
-                - part time
+                - full time
               </p>
             </div>
           </div>
@@ -261,7 +261,7 @@
               <h2
                 class="font-bold text-gray-900 dark:text-gray-300 mb-1 tracking-wider text-lg"
               >
-                Freelancer Web/Software Developer
+                Freelancer WEB/Software Developer
               </h2>
               <p
                 class="text-sm text-smleading-relaxed text-gray-700 dark:text-gray-400"
@@ -306,7 +306,7 @@
               <h2
                 class="font-bold text-gray-900 dark:text-gray-300 mb-1 tracking-wider text-lg"
               >
-                Fullstack Software Web Developer
+                Fullstack Software WEB Developer
               </h2>
               <p
                 class="text-sm text-smleading-relaxed text-gray-700 dark:text-gray-400"
