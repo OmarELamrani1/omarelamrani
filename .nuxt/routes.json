@@ -2,19 +2,22 @@
   {
     "name": "about",
     "path": "/about",
-    "component": "C:\\\\Users\\\\EDGYBRAIN 10\\\\Desktop\\\\omarelamrani\\\\pages\\\\about.vue",
-    "chunkName": "pages/about"
+    "component": "C:\\\\Users\\\\rida1\\\\OneDrive\\\\Desktop\\\\omarelamrani\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_69b21ba3"
   },
   {
     "name": "contact",
     "path": "/contact",
-    "component": "C:\\\\Users\\\\EDGYBRAIN 10\\\\Desktop\\\\omarelamrani\\\\pages\\\\contact.vue",
-    "chunkName": "pages/contact"
+    "component": "C:\\\\Users\\\\rida1\\\\OneDrive\\\\Desktop\\\\omarelamrani\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_6fd2d994"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\EDGYBRAIN 10\\\\Desktop\\\\omarelamrani\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "component": "C:\\\\Users\\\\rida1\\\\OneDrive\\\\Desktop\\\\omarelamrani\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_ed2c1330"
   }
 ]

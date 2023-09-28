@@ -119,7 +119,7 @@
                   <p
                     class="text-xs font-semibold md:text-md text-green-700 dark:text-green-500"
                   >
-                    Backend Software Developer
+                    Fullstack Developer
                   </p>
                 </div>
               </div>

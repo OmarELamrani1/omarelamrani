@@ -3,11 +3,11 @@ export { default as HomeHero } from '../..\\components\\home\\Hero.vue'
 export { default as HomeOss } from '../..\\components\\home\\Oss.vue'
 export { default as HomeSkills } from '../..\\components\\home\\Skills.vue'
 export { default as HomeTestimonials } from '../..\\components\\home\\Testimonials.vue'
+export { default as AboutExperience } from '../..\\components\\about\\Experience.vue'
+export { default as AboutIntro } from '../..\\components\\about\\Intro.vue'
 export { default as LayoutFooter } from '../..\\components\\layout\\Footer.vue'
 export { default as LayoutNavigation } from '../..\\components\\layout\\Navigation.vue'
 export { default as LayoutThemeSwitcher } from '../..\\components\\layout\\ThemeSwitcher.vue'
-export { default as AboutExperience } from '../..\\components\\about\\Experience.vue'
-export { default as AboutIntro } from '../..\\components\\about\\Intro.vue'
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {

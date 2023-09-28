@@ -166,7 +166,7 @@
               <p
                 class="font-meduim mb-1 text-xs text-gray-800 dark:text-gray-400"
               >
-                26 October - present
+                02 January - 30 June
               </p>
               <h2
                 class="font-bold text-gray-900 dark:text-gray-300 mb-1 tracking-wider text-lg"
@@ -266,9 +266,9 @@
               <p
                 class="text-sm text-smleading-relaxed text-gray-700 dark:text-gray-400"
               >
-                <a target="blank"
+                <a
                   class="text-green-700 dark:text-green-500 underline mr-1"
-                  href="https://sysfastconsulting.com"
+                  href="#"
                 >
                   Sysfastconsulting
                 </a>
@@ -311,7 +311,7 @@
               <p
                 class="text-sm text-smleading-relaxed text-gray-700 dark:text-gray-400"
               >
-                <a target="blank"
+                <a
                   class="text-green-700 dark:text-green-500 dark:font-normal underline mr-1"
                   href="#"
                 >

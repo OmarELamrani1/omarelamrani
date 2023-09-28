@@ -15,12 +15,12 @@
       <div class="mt-6 flex md:flex-row space-x-14 flex-col justify-bteween">
         <div class="flex-1">
           <p class="leading-7">
-            I'm Omar EL Amrani, 22 years old, WEB software developer, graduated
+            I'm Omar EL Amrani, 23 years old, WEB software developer, graduated
             from a technical school specializing in IT development and computer
             systems and passionate about software engineering, with strong
             background in PHP (LARAVEL).
             <br class="block mt-2.5" />
-            I have over 1 years of experience at private IT companies.
+            I have over 2 years of experience at private IT companies.
             Also as a freelancer.
             <br class="block mt-2.5" />
             I'm positive, open-minded and determined. I'm always looking for
