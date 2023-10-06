@@ -51,7 +51,9 @@ export default {
   modules: ['vue-scrollto/nuxt', '@nuxtjs/axios'],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
-  build: {},
+  build: {
+    postcss: require('./postcss.config.js'),
+  },
 
   googleAnalytics: {
     id: 'UA-196446433-1',
