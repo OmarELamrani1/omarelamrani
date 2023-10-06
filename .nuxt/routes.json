@@ -3,21 +3,18 @@
     "name": "about",
     "path": "/about",
     "component": "C:\\\\Users\\\\lenovo\\\\OneDrive\\\\Desktop\\\\omarelamrani\\\\pages\\\\about.vue",
-    "chunkName": "pages/about",
-    "_name": "_06c60b52"
+    "chunkName": "pages/about"
   },
   {
     "name": "contact",
     "path": "/contact",
     "component": "C:\\\\Users\\\\lenovo\\\\OneDrive\\\\Desktop\\\\omarelamrani\\\\pages\\\\contact.vue",
-    "chunkName": "pages/contact",
-    "_name": "_4bc494ea"
+    "chunkName": "pages/contact"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\lenovo\\\\OneDrive\\\\Desktop\\\\omarelamrani\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_1c54d51c"
+    "chunkName": "pages/index"
   }
 ]
