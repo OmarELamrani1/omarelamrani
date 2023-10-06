@@ -2,22 +2,22 @@
   {
     "name": "about",
     "path": "/about",
-    "component": "C:\\\\Users\\\\rida1\\\\OneDrive\\\\Desktop\\\\omarelamrani\\\\pages\\\\about.vue",
+    "component": "C:\\\\Users\\\\lenovo\\\\OneDrive\\\\Desktop\\\\omarelamrani\\\\pages\\\\about.vue",
     "chunkName": "pages/about",
-    "_name": "_69b21ba3"
+    "_name": "_06c60b52"
   },
   {
     "name": "contact",
     "path": "/contact",
-    "component": "C:\\\\Users\\\\rida1\\\\OneDrive\\\\Desktop\\\\omarelamrani\\\\pages\\\\contact.vue",
+    "component": "C:\\\\Users\\\\lenovo\\\\OneDrive\\\\Desktop\\\\omarelamrani\\\\pages\\\\contact.vue",
     "chunkName": "pages/contact",
-    "_name": "_6fd2d994"
+    "_name": "_4bc494ea"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\rida1\\\\OneDrive\\\\Desktop\\\\omarelamrani\\\\pages\\\\index.vue",
+    "component": "C:\\\\Users\\\\lenovo\\\\OneDrive\\\\Desktop\\\\omarelamrani\\\\pages\\\\index.vue",
     "chunkName": "pages/index",
-    "_name": "_ed2c1330"
+    "_name": "_1c54d51c"
   }
 ]
