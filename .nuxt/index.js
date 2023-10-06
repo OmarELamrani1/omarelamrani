@@ -12,7 +12,6 @@ import { setContext, getLocation, getRouteData, normalizeError } from './utils'
 
 /* Plugins */
 
-import nuxt_plugin_plugin_20cd99e7 from 'nuxt_plugin_plugin_20cd99e7' // Source: .\\components\\plugin.js (mode: 'all')
 import nuxt_plugin_axios_0a67708a from 'nuxt_plugin_axios_0a67708a' // Source: .\\axios.js (mode: 'all')
 import nuxt_plugin_vuescrollto_1fc07382 from 'nuxt_plugin_vuescrollto_1fc07382' // Source: .\\vue-scrollto.js (mode: 'client')
 import nuxt_plugin_googleanalytics_711d0d5c from 'nuxt_plugin_googleanalytics_711d0d5c' // Source: .\\google-analytics.js (mode: 'client')
@@ -46,7 +45,7 @@ Vue.component(Nuxt.name, Nuxt)
 
 Object.defineProperty(Vue.prototype, '$nuxt', {
   get() {
-    const globalNuxt = this.$root.$options.$nuxt
+    const globalNuxt = this.$root ? this.$root.$options.$nuxt : null
     if (process.client && !globalNuxt && typeof window !== 'undefined') {
       return window.$nuxt
     }
@@ -60,7 +59,8 @@ Vue.use(Meta, {"keyName":"head","attribute":"data-n-head","ssrAttribute":"data-n
 const defaultTransition = {"name":"page","mode":"out-in","appear":false,"appearClass":"appear","appearActiveClass":"appear-active","appearToClass":"appear-to"}
 
 async function createApp(ssrContext, config = {}) {
-  const router = await createRouter(ssrContext, config)
+  const store = null
+  const router = await createRouter(ssrContext, config, { store })
 
   // Create Root instance
 
@@ -132,6 +132,7 @@ async function createApp(ssrContext, config = {}) {
     req: ssrContext ? ssrContext.req : undefined,
     res: ssrContext ? ssrContext.res : undefined,
     beforeRenderFns: ssrContext ? ssrContext.beforeRenderFns : undefined,
+    beforeSerializeFns: ssrContext ? ssrContext.beforeSerializeFns : undefined,
     ssrContext
   })
 
@@ -180,10 +181,6 @@ async function createApp(ssrContext, config = {}) {
     }
   }
   // Plugin execution
-
-  if (typeof nuxt_plugin_plugin_20cd99e7 === 'function') {
-    await nuxt_plugin_plugin_20cd99e7(app.context, inject)
-  }
 
   if (typeof nuxt_plugin_axios_0a67708a === 'function') {
     await nuxt_plugin_axios_0a67708a(app.context, inject)
